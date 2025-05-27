@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sp211"
+version = "0.1.1"
+dependencies = [  
+    "geopandas>=1.0.1",
+    "pytest==8.3.5"
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "sp211"
+]
+
+[tool.hatch.build]
+packages = ["sp211"]

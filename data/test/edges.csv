@@ -1,0 +1,14 @@
+poi1,poi2,cost
+A,B,9
+B,C,8
+C,G,5
+D,A,3
+D,B,5
+A,E,7
+D,E,3
+B,F,4
+E,F,7
+F,G,7
+B,E,5
+E,C,6
+C,F,8

@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: sp211
+Version: 0.1.1
+Requires-Dist: geopandas>=1.0.1
+Requires-Dist: pytest==8.3.5
