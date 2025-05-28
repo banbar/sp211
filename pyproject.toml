@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sp211"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [  
     "geopandas>=1.0.1",
     "pytest==8.3.5"
